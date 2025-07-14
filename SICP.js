@@ -1,5 +1,4 @@
 function d_filter(pred, xs) {
-// ???  
       if (is_null(xs)){
          return null;
       } else {
